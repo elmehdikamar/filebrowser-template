@@ -1,4 +1,4 @@
-FROM filebrowser/filebrowser:latest
+FROM hurlenko/filebrowser:latest
 
 COPY --chmod=755 start.sh ./
 
